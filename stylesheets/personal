@@ -1,0 +1,508 @@
+* body {
+	/*background-image: url(http://i1074.photobucket.com/albums/w405/cmc4af/gray_background_zps36b0200a.jpeg);
+	*/
+}
+
+#html_body{
+	margin: 0;
+	padding: 0;
+}
+
+#contact_header {
+	height: 70px;
+	background: cadetblue;
+	position: relative;
+}
+
+body > img {
+	border-radius: 100px 50px;
+	height: 53%;
+	width: 43%;
+	position: fixed;
+	top: 25%;
+	left: 25%;
+	border: 2.5px solid black;
+}
+
+
+body {
+	position: relative;
+}
+
+.left {
+	position: relative;
+}
+
+#cameron {
+	font-size: 300%;
+	position: fixed;
+	top: 23%;
+	left: 3%;
+	font-family: "Andale Mono";
+}
+
+#cross {
+	font-size: 300%;
+	position: fixed;
+	top: 68%;
+	left: 67%;
+	font-family: "Andale Mono";
+}
+
+#footer {
+	font-size: 200%;
+	position: fixed;
+	top: 83%;
+	left: 20%;
+	font-family: "Andale Mono";
+}
+
+#home,
+#education,
+#contact,
+#hobbies {
+	margin-right: 30px;
+	font-size: 180%;
+	color: white;
+	display: inline;
+	background-color: steelblue;
+	top: 4%;
+	text-decoration: none;
+	background: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+#home {
+	position: absolute;
+	left: 10%;
+}
+
+
+#education {
+	position: absolute;
+	left: 28%;
+}
+
+#contact {
+	position: absolute;
+	left: 80%;
+}
+
+#hobbies {
+	position: absolute;
+	left: 60%%;
+}
+
+a {
+	text-decoration: :none;
+	color: white;
+	background-color: steelblue;
+}
+
+#vertical_line {
+	border-left: 5px solid;
+	margin: auto;
+	width: 5px;
+	height: 580px;
+	margin-top: 10px;
+
+}
+
+#virginia {
+	color: orangered;
+	font-size:400%;
+	position: absolute;
+	left: 12%;
+	text-decoration: navy;
+}
+
+.phone {
+	text-align: center;
+	position: fixed;
+	top: 48%;
+	left: 22%;
+	font-size: 80%%;
+	font-family: "Andale Mono";
+	color: black;
+}
+
+#contact_title h1{
+	font-size: 400%;
+	text-align: center;
+	font-family: Garamond;
+	color: black;
+}
+
+
+#contact_background {
+	background: beige;
+}
+
+.contact_links {
+	background: none;
+}
+
+.phone img {
+	width: 5%;
+	height: 10%;
+	position: fixed;
+	top: 40%;
+	left: 26%;
+}
+
+.email {
+	text-align: center;
+	position: fixed;
+	top: 48%;
+	left: 40%;
+	font-size: 80%%;
+	font-family: "Andale Mono";
+	color: black;
+}
+
+.email img {
+	width: 5%;
+	height: 10%;
+	position: fixed;
+	top: 40%;
+	left: 46%;
+}
+
+.facebook{
+	text-align: center;
+	position: fixed;
+	top: 48%;
+	left: 64%;
+	font-size: 80%%;
+	font-family: "Andale Mono";
+	color: black;
+	background: none;
+}
+
+.facebook img {
+	width: 5%;
+	height: 10%;
+	position: fixed;
+	top: 40%;
+	left: 67.5%;
+}
+
+.fb_link {
+	background: none;
+}
+
+h2 a {
+	background-color: none;
+}
+
+h2 a:visited {
+	text-decoration: none;
+	background-color: none;
+	color: black;
+}
+
+h2 a:hover {
+	text-decoration: none;
+}
+
+h2 a:active {
+	text-decoration: none;
+	background-color: none;
+}
+
+h2 a {
+	background-color: gainsboro;
+}
+
+#line1,
+#line2 {
+    display: inline-block;
+    height: 7px;
+    border: 7px;
+    border-top: 7px solid black;
+    margin-top: 2em;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    top: 20%;
+    color: white;
+}
+
+#line1 {
+	position: relative;
+	width: 19%;
+	left: 11%;
+	color: white;
+}
+
+#line2 {
+	position: relative;
+	width: 19%;
+	left: 48%;
+	color: white;
+}
+
+#about,
+#bquote1,
+#p1,
+#p2,
+#p3  {
+	color: black;
+	font-family: Garamond
+}
+
+
+#about {
+	display: inline-block;
+	top: 10%;
+	text-align: center;
+	margin-top: 23px;
+	margin-right: 0;
+	margin-left: 0;
+	font-size: 350%;
+	font-family: Garamond;
+	padding: 0;
+}
+
+#p1 {
+	margin-right: 12%;
+	margin-left: 2%;
+	text-align: left;
+	line-height: 150%;
+}
+
+#bquote1 {
+	margin-left: 2%;
+	font-size: 150%;
+	float: left;
+	display: inline;
+}
+
+#adventure {
+	color: orangered;
+}
+
+#p2 {
+	display:inline;
+	float: left;
+	margin-right: 0;
+	margin-left: 2%;
+	text-align: left;
+	line-height: 150%;
+	width: 400px;
+}
+
+#scuba img{
+	position: absolute;
+	width: 300px;
+	height: 320px;
+	border-radius: 50px;
+	top: 250px;
+	border: 1.5px black solid;
+	left: 800px;
+	top: 260px;
+}
+
+#goals {
+	color: orangered;
+	font-size: 250%;
+}
+
+#p3 {
+	clear: both;
+	margin-right: 12%;
+	margin-left: 2%;
+	text-align: left;
+	line-height: 150%;
+}
+
+#wrapper {
+	border-left: 5px solid black;
+	border-right: 5px solid black;
+}
+
+#education_background {
+	background-color: beige;
+}
+
+#education_header {
+	background-color: cadetblue;
+	height: 10vh;
+	width: 100vw;
+}
+
+#hobbies_body {
+	background-image: none;
+}
+
+#hobbies_header{
+	background-color: cadetblue;
+	height: 10vh;
+	width: 100vw;
+}	
+
+.education_links {
+	background: none;
+}
+
+#hobbies_background {
+	background-color: beige;
+}
+
+.hobbies_links {
+	background: none;
+}
+
+#salsa_img {
+	position: absolute;
+	height: 160px;
+	width: 160px;
+	border-radius: 200px;
+	top: 175px;
+	left: 90px;
+	border: 3px black solid;
+}
+
+#salsa_header {
+	color: orangered;
+	font-size: 4em;
+	position: absolute;
+	left: 77px;
+	top: 42px;
+	font-family: serif;
+}
+
+#p_salsa {
+	position: absolute;
+	top: 340px;
+	margin-left: 10px;
+	max-width: 30vw;
+	font-family: serif;
+}
+
+#p_salsa_two {
+	position: absolute;
+	top: 485px;
+	margin-left: 10px;
+	max-width: 30vw;	
+	font-family: serif;
+}
+
+#bar_one {
+	position: absolute;
+    height: 570px;
+    border: 4px;
+    border-left: 4px solid black;
+    margin: auto;
+    margin-top: 7em;
+    margin-bottom: 0;
+    margin-left: 415px;
+    margin-right: 0;
+    padding: 0;
+    top: 50%;
+    bottom: 50px;
+}
+
+#running_img {
+	position: absolute;
+	height: 210px;
+	width: 210px;
+	border-radius: 200px;
+	position: absolute;
+	top: 410px;
+	left: 485px;
+	border: 3px black solid;
+}
+
+#running_header {
+	color: orangered;
+	font-size: 4em;
+	position: absolute;
+	left: 455px;
+	top: 580px;
+}
+
+#p_running {
+	position: absolute;
+	top: 140px;
+	margin-left: 150px;
+	max-width: 30vw;
+	left: 280px;
+	font-family: serif;
+}
+
+#p_running_two {
+	position: absolute;
+	top: 280px;
+	margin-left: 150px;
+	max-width: 30vw;
+	left: 280px;	
+	font-family: Garamond;
+}
+
+#bar_two {
+	position: absolute;
+    height: 570px;
+    border: 4px;
+    border-left: 4px solid black;
+    margin: auto;
+    margin-top: 7em;
+    margin-bottom: 0;
+    margin-left: 815px;
+    margin-right: 0;
+    padding: 0;
+    top: 50%;
+    bottom: 50px;
+}
+
+
+#soccer_img {
+	position: absolute;
+	height: 210px;
+	width: 210px;
+	border-radius: 200px;
+	position: absolute;
+	top: 150px;
+	left: 880px;
+	border: 3px black solid;
+}
+
+#soccer_header {
+	color: orangered;
+	font-size: 4em;
+	position: absolute;
+	right: 105px;
+	top: 42px;
+	font-family: serif;
+}
+
+#p_soccer {
+	position: absolute;
+	top: 360px;
+	margin-left: 850px;
+	max-width: 30vw;
+	font-family: Garamond;
+}
+
+#p_soccer_two {
+	position: absolute;
+	top: 470px;
+	margin-left: 850px;
+	max-width: 30vw;
+	font-family: serif;
+}
+
+#p_salsa,
+#p_salsa_two,
+#p_running,
+#p_running_two
+#p_soccer,
+#p_soccer_two {
+	color: black;
+	font-family: Garamond;
+}
+
